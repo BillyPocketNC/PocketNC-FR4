@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DRV10983%20Rev%20B.brd)(type KiCad)(uri "$(KIPRJMOD)/DRV10983%20Rev%20B.brd.pretty")(options "")(descr ""))
+)
